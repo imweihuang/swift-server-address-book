@@ -1,5 +1,5 @@
-# Welcome to Vapor Address Book
-(please run ```vapor update``` to create xcode file) 
+# Welcome to my server-side swift project - Vapor Address Book
+(you may need to run ```vapor update``` to update xcode file) 
 - To create an adddress:
 ```
 http://localhost:8080/create/<First Name>/<Last Name>/<Email Address>/<Phone Number>
