@@ -1,0 +1,4 @@
+module CHTTP {
+    umbrella "/Users/weihuang/Documents/GitHub/swift-server-address-book/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include"
+    export *
+}
