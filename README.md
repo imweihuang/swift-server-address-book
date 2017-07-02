@@ -1,4 +1,4 @@
-# Welcome to my server-side swift project - Vapor Address Book
+# [Server-side Swift] Vapor Address Book
 (you may need to run ```vapor update``` to update xcode file) 
 - To create an adddress:
 ```
